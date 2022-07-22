@@ -1,4 +1,4 @@
-# Vcpkg: Overview
+# vcpkg: Overview
 
 [中文总览](README_zh_CN.md)
 [Español](README_es.md)
